@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/developer/fpcupdeluxe/fpc/bin/x86_64-linux/fpc.sh" Date="1711635869"/>
+  <Params Value=" -Twin64 -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -Fi/home/developer/project/mvc/tmp/x86_64-win64 -Fu/home/developer/project/mvc/src/views -Fu/home/developer/fpcupdeluxe/lazarus/lcl/units/x86_64-win64/win32 -Fu/home/developer/fpcupdeluxe/lazarus/lcl/units/x86_64-win64 -Fu/home/developer/fpcupdeluxe/lazarus/components/freetype/lib/x86_64-win64 -Fu/home/developer/fpcupdeluxe/lazarus/components/lazutils/lib/x86_64-win64 -Fu/home/developer/fpcupdeluxe/lazarus/packager/units/x86_64-win64 -Fu/home/developer/project/mvc/src/ -FU/home/developer/project/mvc/tmp/x86_64-win64/ -FE/home/developer/project/mvc/dist/ -o/home/developer/project/mvc/dist/appmvc.exe -dLCL -dLCLwin32 appmvc.lpr"/>
+</CONFIG>
